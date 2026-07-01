@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    color: #d81717;
+}
+input{
+    padding: 5px;
+}
+button{
+    margin: 2px;
+    padding: 5px;
+    font-weight: bold;
+    font-size: medium;
+}
+#displayMessage{
+    font-weight: 600;
+    font-size: large;
+    color: blue;
+}
